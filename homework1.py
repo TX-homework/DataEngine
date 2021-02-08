@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 17 09:59:30 2020
-
-@author: TiXin
-"""
-
 # Action 1
 
 import numpy as np
